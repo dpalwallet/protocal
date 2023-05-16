@@ -1,2 +1,2 @@
 # protocal
-doginals protocal
+doginals protocal collections
